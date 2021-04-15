@@ -1,0 +1,6 @@
+Redis
+Flask
+Flask-SQLAlchemy===2.4.1
+Flask-Migrate
+Flask-Script
+Flask-Psycopg2===1.3
