@@ -1,8 +1,8 @@
 from flask import Flask, jsonify, make_response, request
 from redis import Redis, RedisError
 from flask_sqlalchemy import SQLAlchemy
-from flask_script import Manager
-from flask_migrate import Migrate, MigrateCommand
+#from flask_script import Manager
+#from flask_migrate import Migrate, MigrateCommand
 from sqlalchemy.exc import OperationalError
 import psycopg2
 
